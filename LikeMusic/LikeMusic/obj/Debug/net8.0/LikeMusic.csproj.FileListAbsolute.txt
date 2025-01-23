@@ -1,0 +1,14 @@
+C:\Users\gabri\source\repos\LikeMusic\LikeMusic\bin\Debug\net8.0\LikeMusic.exe
+C:\Users\gabri\source\repos\LikeMusic\LikeMusic\bin\Debug\net8.0\LikeMusic.deps.json
+C:\Users\gabri\source\repos\LikeMusic\LikeMusic\bin\Debug\net8.0\LikeMusic.runtimeconfig.json
+C:\Users\gabri\source\repos\LikeMusic\LikeMusic\bin\Debug\net8.0\LikeMusic.dll
+C:\Users\gabri\source\repos\LikeMusic\LikeMusic\bin\Debug\net8.0\LikeMusic.pdb
+C:\Users\gabri\source\repos\LikeMusic\LikeMusic\obj\Debug\net8.0\LikeMusic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\LikeMusic\LikeMusic\obj\Debug\net8.0\LikeMusic.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\LikeMusic\LikeMusic\obj\Debug\net8.0\LikeMusic.AssemblyInfo.cs
+C:\Users\gabri\source\repos\LikeMusic\LikeMusic\obj\Debug\net8.0\LikeMusic.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\LikeMusic\LikeMusic\obj\Debug\net8.0\LikeMusic.dll
+C:\Users\gabri\source\repos\LikeMusic\LikeMusic\obj\Debug\net8.0\refint\LikeMusic.dll
+C:\Users\gabri\source\repos\LikeMusic\LikeMusic\obj\Debug\net8.0\LikeMusic.pdb
+C:\Users\gabri\source\repos\LikeMusic\LikeMusic\obj\Debug\net8.0\LikeMusic.genruntimeconfig.cache
+C:\Users\gabri\source\repos\LikeMusic\LikeMusic\obj\Debug\net8.0\ref\LikeMusic.dll
